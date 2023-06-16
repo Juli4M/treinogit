@@ -3,7 +3,7 @@ Repositório para treino do git
 
 **Negrito**
 
-*italico*
+*italico* teste
 
 ***itálico e negrito***
 
